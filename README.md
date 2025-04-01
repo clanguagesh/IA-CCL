@@ -1,5 +1,11 @@
 # IACCL
 
+## Model Download
+
+You can download the pre-trained model from the following link:
+
+[Download Pre-trained Model](https://drive.google.com/file/d/1VO96NUfb6uMsEKxzqGaMpvJUZGddHnFf/view?usp=drive_link)
+
 # Train
 The training code will be available when my paper is accepted.
 
