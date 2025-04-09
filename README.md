@@ -9,7 +9,7 @@ You can download the model weight from the following link:
 [dota15_20_result.pth](https://drive.google.com/uc?export=download&id=1dDqjhGEUNYCvaGuDANbWyKWa47SsSVYR)
 
 ## Train
-The training code will be available when my paper is accepted.
+The training code will be available after our paper is accepted.
 
 ## Test
 Before test IACCL, you need replace the data-path in configs/_base_/datasets/dotav15.py, then you need download the pth and put it in checkpoint directory. You could test IACCL with the following command:
